@@ -6,3 +6,4 @@ Python Libraries used:
 - NumPy: Positioning the Data on the visualized charts correctly.
 
 Conclusions:
+By analzing visualized data on the past and upcoming class schedules, the company can now determine if adjustments to the new schedule are necessary. These decisions are made based on additional data collected on participation trends (such as client age, client level, client return rate, high participation class times, low participation class times, etc...). Through the use of the visualized data on the past and upcoming schedules, the company can clearly determine whether their new schedule will effectively maximize participation rates based on participation trends they have acknowledged.
